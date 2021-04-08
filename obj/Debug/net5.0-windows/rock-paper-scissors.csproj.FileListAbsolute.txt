@@ -1,0 +1,5 @@
+C:\source\codeworks\c-sharp\rock-paper-scissors\obj\Debug\net5.0-windows\rock-paper-scissors.csprojAssemblyReference.cache
+C:\source\codeworks\c-sharp\rock-paper-scissors\obj\Debug\net5.0-windows\rock-paper-scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\c-sharp\rock-paper-scissors\obj\Debug\net5.0-windows\rock-paper-scissors.AssemblyInfoInputs.cache
+C:\source\codeworks\c-sharp\rock-paper-scissors\obj\Debug\net5.0-windows\rock-paper-scissors.AssemblyInfo.cs
+C:\source\codeworks\c-sharp\rock-paper-scissors\obj\Debug\net5.0-windows\rock-paper-scissors.csproj.CoreCompileInputs.cache
